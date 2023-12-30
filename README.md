@@ -5,7 +5,7 @@ After the target was selected a precise target dive was executed with real time 
 
 ![video](https://github.com/saksham18kukreja/loiter_munition/blob/main/media/dive.gif)
 
-In the video the target was selected as the origin and a dive was conducted (target was missed due to lack of real time adjustment in trajectory)
+The target was selected as the origin and a dive was conducted (target was missed due to lack of real time adjustment in trajectory)
 
 ## Fallback
 ![video](https://github.com/saksham18kukreja/loiter_munition/blob/main/media/recovery.gif)
