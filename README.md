@@ -1,6 +1,6 @@
 # Loiter Munition and Precision Dive
 
-The objective of this project was to enable a precise kamekaze dive on a user-selected target from real time camera feedback.
+The objective of this project was to enable a precise kamikaze dive on a user-selected target from real time camera feedback.
 After the target was selected a precise target dive was executed with real time trajectory adjustment from the camera feedback mounted at the front of the fixed-wing plane.
 
 ![video](https://github.com/saksham18kukreja/loiter_munition/blob/main/media/dive.gif)
